@@ -17,7 +17,7 @@ jq '.recordMap.block | to_entries | map({id:.key, properties: (.value.value.prop
 jq '.recordMap.collection | to_entries | .[0].value.value.schema | map_values({name:.name, type: .type, options: (if (.options == null) then null else .options | map(.value) end)})' data/schedule.json > data/schema.json
 ```
 
-4. Run the python `prepare` script to get the processed JSON output:
+4. Run the python `process` script to get the processed JSON output:
 ```bash
 python3 ./process.py
 ```
