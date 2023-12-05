@@ -1,0 +1,137 @@
+{
+  ":C]H": {
+    "name": "Dependencies",
+    "type": "text",
+    "options": null
+  },
+  "SojA": {
+    "name": "Status",
+    "type": "status",
+    "options": [
+      "Deleted",
+      "Unconfirmed",
+      "Need a Speaker",
+      "Speaker-Wants to Speak",
+      "Speaker-Accepted",
+      "Confirmed",
+      "In progress",
+      "Final Approval",
+      "Done"
+    ]
+  },
+  "XKAc": {
+    "name": "Notes",
+    "type": "text",
+    "options": null
+  },
+  "d?jH": {
+    "name": "Location",
+    "type": "select",
+    "options": [
+      "iHQ 7F | Northern Air  Temple",
+      "iHQ 4F | Western Air Temple",
+      "iHQ 3F | Southern Air Temple",
+      "ML 6F (Dreyfoos) | Turtle Island",
+      "ML 6F (Skyline) | Water Tribe",
+      "Old ML (Bartos) | Ember Island"
+    ]
+  },
+  "fnDK": {
+    "name": "Major ",
+    "type": "multi_select",
+    "options": [
+      "Advanced",
+      "Design",
+      "Developer",
+      "Business",
+      "Hardware Hack",
+      "Audio"
+    ]
+  },
+  "j^TL": {
+    "name": "Type",
+    "type": "multi_select",
+    "options": [
+      "Beginner",
+      "Has PreReqs",
+      "Sponsor",
+      "Hardware",
+      "Business",
+      "Internal",
+      "Fun"
+    ]
+  },
+  "mhmF": {
+    "name": "Speaker",
+    "type": "multi_select",
+    "options": [
+      "Sam De Lara",
+      "ShapesXR Team",
+      "Dulce Baerga",
+      "XR Terra",
+      "Internal",
+      "Ian",
+      "Lucas De Bonet",
+      "Mitchell",
+      "livia",
+      "Austin Edelman",
+      "Shirly Spikes",
+      "Sponsor-Led",
+      "Org Member",
+      "Unity",
+      "Wiley Corning",
+      "David Tamés",
+      "Peter Zakrzewski",
+      "Pratik Suketu",
+      "BNT",
+      "Rex Hansen (Esri)",
+      "Bryan Brown",
+      "Esteban Maldonado (Unity)",
+      "Steve Lukas (Snapdragon Spaces)",
+      "Rogue Fong (Snapdragon Spaces)",
+      "XR Bootcamp",
+      "Worldbuilding Team",
+      "Sultan Sharrief",
+      "Jason Kraus (Prepare4VC.com)",
+      "Parna Sarkar-Basu (Prepare4VC.com)",
+      "Chris Dube (Prepare4VC.com)",
+      "Brian Hui",
+      "Looking Glass Factory",
+      "Dario Laverde (HTC Vive)",
+      "Jonathan Hale (Wonderland)",
+      "Jeff Roesner (Pico)",
+      "Greg Feingold (TikTok)",
+      "Mingus New (TikTok)",
+      "Dan Furman (ArcTop)",
+      "Bryan Brown (Looking Glass Factory)",
+      "Dan Zeitman (Dolby.io)",
+      "Matt Nelson (Esri)",
+      "Daniel Sisson (CyberHub)"
+    ]
+  },
+  "r=~^": {
+    "name": "Date and Time",
+    "type": "date",
+    "options": null
+  },
+  "tEb_": {
+    "name": "Fun Name",
+    "type": "text",
+    "options": null
+  },
+  "zU_C": {
+    "name": "Topics / Description",
+    "type": "text",
+    "options": null
+  },
+  "{=Su": {
+    "name": "Email",
+    "type": "email",
+    "options": null
+  },
+  "title": {
+    "name": "Workshop Name",
+    "type": "title",
+    "options": null
+  }
+}

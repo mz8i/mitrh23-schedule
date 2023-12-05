@@ -1,0 +1,811 @@
+[
+    {
+        "id": "3eb65393-9a8d-4e7c-b608-6cd11f7d74fb",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Dreyfoos) | Turtle Island",
+            "Major": "Developer",
+            "Type": "Sponsor",
+            "Speaker": "Bryan Brown (Looking Glass Factory)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+            },
+            "Workshop Name": "Looking Glass Workshop"
+        }
+    },
+    {
+        "id": "8dfdbf8e-6c7c-47fb-8c93-5ed7694e5048",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Dreyfoos) | Turtle Island",
+            "Major": "Developer",
+            "Type": "Sponsor",
+            "Speaker": "Sponsor-Led",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+            },
+            "Workshop Name": "Cognitive3D"
+        }
+    },
+    {
+        "id": "266372c1-953c-4293-8adb-0b2a3312318b",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Dreyfoos) | Turtle Island",
+            "Major": "Developer",
+            "Type": "Sponsor",
+            "Speaker": "Sponsor-Led",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+            },
+            "Workshop Name": "inCitu.us"
+        }
+    },
+    {
+        "id": "8fdfc383-c446-4a4b-8e1c-b525bc3cd8d9",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Dreyfoos) | Turtle Island",
+            "Major": "Developer",
+            "Type": "Sponsor",
+            "Speaker": "Sponsor-Led",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+            },
+            "Workshop Name": "Leia"
+        }
+    },
+    {
+        "id": "c2c48c6b-4d10-4806-81d4-8e79efba4a86",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Dreyfoos) | Turtle Island",
+            "Major": "Design,Developer",
+            "Type": "Sponsor",
+            "Speaker": "Greg Feingold (TikTok),Mingus New (TikTok)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:45",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+            },
+            "Topics / Description": "How to tell a story using Effect house / Intro to Effect House software",
+            "Workshop Name": "Shape Culture with AR using TikTok Effect House"
+        }
+    },
+    {
+        "id": "ad0c458e-7f51-47e1-9eb6-7c7476533ec7",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Dreyfoos) | Turtle Island",
+            "Major": "Developer",
+            "Type": "Sponsor",
+            "Speaker": "Steve Lukas (Snapdragon Spaces),Rogue Fong (Snapdragon Spaces)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+            },
+            "Topics / Description": "Learn about the features and capabilities of the Snapdragon Spaces XR Developer Platform in this informal workshop overview. This Augmented Reality-focused session is highly recommended for participants interested in the dedicated Snapdragon Spaces Hack, and is intended for those with previous experience building mobile and / or XR apps using Unity.",
+            "Workshop Name": "Developing Lightweight AR Glasses experiences with Snapdragon Spaces"
+        }
+    },
+    {
+        "id": "aab28c38-8fa7-46c1-bd3e-57fbb8b6d8d0",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Dreyfoos) | Turtle Island",
+            "Major": "Advanced,Developer",
+            "Speaker": "XR Terra",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "17:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+            },
+            "Topics / Description": "Learn how to create multiplayer connected applications using Normcore ",
+            "Workshop Name": "Introduction to Multiplayer with Normcore"
+        }
+    },
+    {
+        "id": "a2d7fb3b-7ae7-44b4-a564-7045d9818618",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Skyline) | Water Tribe",
+            "Major": "Developer",
+            "Type": "Sponsor",
+            "Speaker": "Dan Furman (ArcTop)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+            },
+            "Workshop Name": "Brain-computer interfacing with Arctop's SDK: basic to advanced functions to wow users"
+        }
+    },
+    {
+        "id": "32be110b-3b1e-46dc-8e83-5b84e35d24eb",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Skyline) | Water Tribe",
+            "Major": "Advanced,Developer",
+            "Type": "Sponsor",
+            "Speaker": "Sponsor-Led",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+            },
+            "Topics / Description": "This should be  in the media  lab tangential to the sponsor expo",
+            "Workshop Name": "HaptX"
+        }
+    },
+    {
+        "id": "9d83ca28-ebc3-4e71-8aec-67c1c9ef2cf0",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Skyline) | Water Tribe",
+            "Major": "Design,Developer,Advanced",
+            "Type": "Beginner,Fun",
+            "Speaker": "Sponsor-Led",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+            },
+            "Topics / Description": "For Quest only",
+            "Email": "inga@shapesxr.com",
+            "Workshop Name": "Prototyping in ShapesXR"
+        }
+    },
+    {
+        "id": "caea9c54-f3d8-4941-876d-feeca0ed86d0",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Skyline) | Water Tribe",
+            "Major": "Developer",
+            "Type": "Sponsor",
+            "Speaker": "Daniel Sisson (CyberHub)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+            },
+            "Workshop Name": "Open Source Multiplayer Project"
+        }
+    },
+    {
+        "id": "c76e4513-06cb-4ef0-9935-bc40c3601922",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Skyline) | Water Tribe",
+            "Major": "Developer",
+            "Type": "Sponsor",
+            "Speaker": "Rex Hansen (Esri),Matt Nelson (Esri)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+            },
+            "Topics / Description": "Attend this workshop to learn how to use Esri\u2019s ArcGIS Maps SDKs for Unity and Unreal Engine to build immersive XR experiences with real-world geospatial data and analytics.\u00a0",
+            "Email": "rhansen@esri.com",
+            "Workshop Name": "Esri: Get Started with ArcGIS Maps SDKs for Game Engines"
+        }
+    },
+    {
+        "id": "4249da4e-6fbd-4c42-ac49-c30f0539d4b1",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Skyline) | Water Tribe",
+            "Major": "Advanced,Developer",
+            "Speaker": "XR Terra",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+            },
+            "Topics / Description": "Learn more about the Unity Physics System and connected rigidbodies with Unity",
+            "Workshop Name": "Introduction to Joints"
+        }
+    },
+    {
+        "id": "3db9b604-6407-4288-a166-4faa1a2f5b67",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "ML 6F (Skyline) | Water Tribe",
+            "Major": "Advanced,Design,Developer",
+            "Type": "Beginner",
+            "Speaker": "Dulce Baerga",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "17:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+            },
+            "Email": "dulce303@gmail.com",
+            "Workshop Name": "Developing an Avatar"
+        }
+    },
+    {
+        "id": "111bedfd-ca36-443e-8cf4-e9c63a13f14a",
+        "properties": {
+            "Dependencies": "Workshop Presenter",
+            "Status": "Confirmed",
+            "Location": "Old ML (Bartos) | Ember Island",
+            "Major": "Developer",
+            "Type": "Beginner",
+            "Speaker": "XR Terra",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+            },
+            "Fun Name": "Getting started with Unity Engine",
+            "Topics / Description": "Basics of Unity\nThe editor, panels\nComponents\nInto to scripting",
+            "Workshop Name": "Getting started with Unity"
+        }
+    },
+    {
+        "id": "6f443118-736c-434e-8213-f763a6cc035d",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "Old ML (Bartos) | Ember Island",
+            "Major": "Design,Developer",
+            "Type": "Beginner",
+            "Speaker": "Sam De Lara",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+            },
+            "Topics / Description": "Learn how to use Blender in your projects! This beginner-friendly workshop will cover how to use this open source software to create, edit, and export 3D models. I'll be going over a variety of topics such as file formats, scripting, how to navigate Blender, and even how you can use your models in other applications like TikTok Effect House.",
+            "Workshop Name": "Blender for a Hackathon"
+        }
+    },
+    {
+        "id": "78600774-868f-46ff-bbe4-5a8865452c96",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "Old ML (Bartos) | Ember Island",
+            "Major": "Developer",
+            "Speaker": "XR Terra",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+            },
+            "Workshop Name": "XR Interaction Toolkit"
+        }
+    },
+    {
+        "id": "d9cc0e35-4826-4cb7-9f9b-d9a0d87a7783",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "Old ML (Bartos) | Ember Island",
+            "Major": "",
+            "Type": "Beginner,Fun",
+            "Speaker": "Dario Laverde (HTC Vive)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+            },
+            "Workshop Name": "Developing for the VIVE XR Elite (and Focus 3 including eye tracking)"
+        }
+    },
+    {
+        "id": "daed97ce-1999-4110-b3aa-33b80ffb14e4",
+        "properties": {
+            "Dependencies": "Workshop Presenter - Familiar with git workflow",
+            "Status": "Confirmed",
+            "Location": "Old ML (Bartos) | Ember Island",
+            "Major": "Developer",
+            "Type": "Beginner",
+            "Speaker": "XR Terra",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+            },
+            "Fun Name": "How to NOT have git issues?",
+            "Workshop Name": "Intro to Version Control with Github"
+        }
+    },
+    {
+        "id": "111e953c-9599-4bb6-83c7-09bdc8efcb4c",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "Old ML (Bartos) | Ember Island",
+            "Major": "Developer,Advanced",
+            "Type": "",
+            "Speaker": "XR Bootcamp",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+            },
+            "Topics / Description": "\"Explore examples of Passthrough interactions that can enrich the experience of your Mixed Reality applications and games\u201d\n",
+            "Workshop Name": "Blending Mixed Reality With Passthrough"
+        }
+    },
+    {
+        "id": "84320f39-88c8-4d3d-b8a4-254e05f6e5db",
+        "properties": {
+            "Status": "In progress",
+            "Location": "Old ML (Bartos) | Ember Island",
+            "Major": "Design",
+            "Speaker": "Worldbuilding Team",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "18:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+            },
+            "Workshop Name": "Future Constructors: Building a better world "
+        }
+    },
+    {
+        "id": "9612f180-d887-4254-8a72-16b3311d4fb7",
+        "properties": {
+            "Status": "In progress",
+            "Location": "iHQ 3F | Southern Air Temple",
+            "Major": "Developer",
+            "Speaker": "Sponsor-Led",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+            },
+            "Workshop Name": "Ultraleap Workshop"
+        }
+    },
+    {
+        "id": "6e75e523-3d66-4df7-a8cb-ea1ada73d7d2",
+        "properties": {
+            "Status": "In progress",
+            "Location": "iHQ 3F | Southern Air Temple",
+            "Major": "Advanced",
+            "Speaker": "Sponsor-Led",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+            },
+            "Topics / Description": "Extended reality (XR) is an emerging form that offers new creative opportunities in immersive narrative meaning-making. The critical shift toward participant immersion within digital information systems and simulation makes the scale of immersive media\u2019s potential impact on human life, culture, and well-being, unlike any previous medium. As a new medium, XR presents unique challenges to media arts creators. In this workshop, participants will explore an immersive experience (XRX) design methodology for designing, planning, and executing immersive media works. The presenters define immersive experience design as a rhetorical, multimodal composition of objective stimuli to create subjective emotional states in the participants. The method applies design-thinking-based knowledge systems to enhance narrative transportation and presence. The methodology has been implemented in project-oriented courses over three years. Templates and handouts will be provided to facilitate implementation of the methodology by teams participating in MIT Reality Hack 2023. David Tam\u00e9s, Associate Teaching Professor, Art + Design, Northeastern UniversityPeter Zakrzewski, Assistant Teaching Professor, Communication and Visual Arts, Thompson Rivers University",
+            "Workshop Name": "Solana"
+        }
+    },
+    {
+        "id": "60550c1a-cfaa-47c8-a66d-4c80e4e7a45a",
+        "properties": {
+            "Dependencies": "Workshop Presenter",
+            "Status": "Confirmed",
+            "Location": "iHQ 3F | Southern Air Temple",
+            "Major": "Developer",
+            "Type": "Has PreReqs",
+            "Speaker": "Esteban Maldonado (Unity)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+            },
+            "Fun Name": "Getting started with Unity Engine",
+            "Topics / Description": "Are you thinking about creating an online\u00a0multiplayer\u00a0experience with Unity? In this workshop, you will learn the basic concepts for making a\u00a0multiplayer\u00a0game using Unity and the Netcode for Game Objects library.\u00a0This session will show you how to interact with Unity's networking\u00a0package to\u00a0build\u00a0a simple co-op\u00a0multiplayer\u00a02D game.\n",
+            "Workshop Name": "Building Multiplayer games with Unity "
+        }
+    },
+    {
+        "id": "6ba2b5df-8945-4fd8-8814-422203a83c73",
+        "properties": {
+            "Location": "iHQ 3F | Southern Air Temple",
+            "Major": "Developer",
+            "Speaker": "Sponsor-Led",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+            },
+            "Workshop Name": "Lynx"
+        }
+    },
+    {
+        "id": "7e5eae82-0962-47de-a572-fb66b2e2f582",
+        "properties": {
+            "Location": "iHQ 3F | Southern Air Temple",
+            "Speaker": "Org Member",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+            },
+            "Workshop Name": "Volunteer Orientation"
+        }
+    },
+    {
+        "id": "d75f5c3e-1907-4f89-ad1c-c3550830bc38",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 3F | Southern Air Temple",
+            "Major": "Developer,Advanced",
+            "Type": "Beginner",
+            "Speaker": "Bryan Brown",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+            },
+            "Workshop Name": "Unreal Engine"
+        }
+    },
+    {
+        "id": "32b16382-b706-4450-a2ef-b3b163e3f21e",
+        "properties": {
+            "Status": "In progress",
+            "Location": "iHQ 3F | Southern Air Temple",
+            "Speaker": "Brian Hui,Austin Edelman,ShapesXR Team",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "17:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+            },
+            "Workshop Name": "Mentor Orientation"
+        }
+    },
+    {
+        "id": "2d16314c-e599-4249-a184-30ce7fd6bf70",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 4F | Western Air Temple",
+            "Major": "AI",
+            "Type": "Sponsor",
+            "Speaker": "Jeff Roesner (Pico)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+            },
+            "Workshop Name": "Pico Neo 3 Workshop"
+        }
+    },
+    {
+        "id": "b458997c-93c0-498b-beb6-50b2ab8f68ee",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 4F | Western Air Temple",
+            "Major": "Developer,Business",
+            "Type": "Beginner",
+            "Speaker": "XR Terra",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+            },
+            "Workshop Name": "Rapid Prototyping and Team Management"
+        }
+    },
+    {
+        "id": "f578ca93-8751-4793-83d1-8656ffaef638",
+        "properties": {
+            "Dependencies": "Workshop Presenter - Familiar with AI tools",
+            "Status": "Confirmed",
+            "Location": "iHQ 4F | Western Air Temple",
+            "Major": "Developer,Design",
+            "Type": "",
+            "Speaker": "Pratik Suketu",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+            },
+            "Topics / Description": "Setting up stable diffusion\nConcepting Ideas\nPrompt Engineering\nIterating on Designs",
+            "Workshop Name": "Generative Art with Super Stable Diffusion"
+        }
+    },
+    {
+        "id": "c1584a93-c8f2-49f0-98e8-d634c1eef3ee",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 4F | Western Air Temple",
+            "Major": "Design,Audio",
+            "Type": "Beginner,Fun",
+            "Speaker": "Shirly Spikes",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+            },
+            "Topics / Description": "Conceptual overview of spatial audio",
+            "Workshop Name": "Spatial Audio Overview"
+        }
+    },
+    {
+        "id": "d86f935b-c696-474a-9b15-f869aa85a00e",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 4F | Western Air Temple",
+            "Major": "Business",
+            "Type": "Beginner",
+            "Speaker": "XR Terra",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+            },
+            "Topics / Description": "How to build quickly and collaborate while you do it",
+            "Workshop Name": "Rapid Prototyping and Team Management"
+        }
+    },
+    {
+        "id": "a5b4832c-d3dd-46f9-be9d-244a3179dbbf",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 4F | Western Air Temple",
+            "Major": "Design,Developer,Audio,Advanced",
+            "Type": "",
+            "Speaker": "Shirly Spikes",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+            },
+            "Topics / Description": "Digital Audio Workstations, mixing, adding audio interactivity",
+            "Workshop Name": "Spatial Audio Advanced Techniques\u00a0"
+        }
+    },
+    {
+        "id": "404880d2-8cc2-4694-a7bf-ca56aedd9c5f",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 4F | Western Air Temple",
+            "Major": "Developer,Audio",
+            "Type": "Sponsor",
+            "Speaker": "Dan Zeitman (Dolby.io)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "17:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+            },
+            "Email": "dan.zeitman@dolby.com",
+            "Workshop Name": "Real-time Spatial Audio and Streaming | "
+        }
+    },
+    {
+        "id": "21ddcfac-e0ab-47cc-b6ad-0f34ef6edb06",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 7F | Northern Air  Temple",
+            "Major": "Developer",
+            "Type": "Sponsor",
+            "Speaker": "Jonathan Hale (Wonderland)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+            },
+            "Topics / Description": "Join the Wonderland CEO/CTO at the MIT Reality Hack for our workshop on building optimized WebXR apps in no time. Learn how to create immersive web-based VR apps using the Wonderland Engine, a specialized 3D development platform for XR on the web. We will give an introduction to the Wonderland Editor and Wonderland Engine's JavaScript API. Don't miss this opportunity to get a head-start into the future of web-based XR development.",
+            "Workshop Name": "Build Performant WebXR Apps in Record-Time with Wonderland Engine"
+        }
+    },
+    {
+        "id": "feb7a93d-d7b2-457e-96e7-00d3adb0642f",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 7F | Northern Air  Temple",
+            "Major": "Hardware Hack",
+            "Speaker": "Bryan Brown",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+            },
+            "Workshop Name": "Scoping Your Project: How to Make a Successful Hackathon Project"
+        }
+    },
+    {
+        "id": "15ac6e9e-84fc-4510-9c3e-752c8fb82c5b",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 7F | Northern Air  Temple",
+            "Major": "Hardware Hack",
+            "Speaker": "Lucas De Bonet,Bryan Brown",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+            },
+            "Workshop Name": "DIY Open Source Hardware "
+        }
+    },
+    {
+        "id": "74b289b2-4e0a-486c-9a1a-8e13882dbef7",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 7F | Northern Air  Temple",
+            "Major": "Hardware Hack",
+            "Speaker": "Lucas De Bonet,Austin Edelman",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+            },
+            "Workshop Name": "Walking through the hardware hack"
+        }
+    },
+    {
+        "id": "c3c418eb-4190-456d-97d9-b091c43e0195",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 7F | Northern Air  Temple",
+            "Major": "Business",
+            "Speaker": "Parna Sarkar-Basu (Prepare4VC.com)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+            },
+            "Topics / Description": "Not positioning your brand right can negatively impact your product launch or fundraising efforts. Learn the branding mistakes most startups make and get tips on building the founder\u2019s brand \u2013 an important element of launching a successful business.",
+            "Workshop Name": "Building your personal brand as a Founder"
+        }
+    },
+    {
+        "id": "ad5bc847-d3fb-492e-9ee2-9cee4908a117",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 7F | Northern Air  Temple",
+            "Major": "Business",
+            "Speaker": "Jason Kraus (Prepare4VC.com)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+            },
+            "Workshop Name": "How not to pitch your startup venture"
+        }
+    },
+    {
+        "id": "088d05aa-8e1d-4b21-8882-8371b96eb683",
+        "properties": {
+            "Status": "Confirmed",
+            "Location": "iHQ 7F | Northern Air  Temple",
+            "Major": "Business",
+            "Speaker": "Chris Dube (Prepare4VC.com)",
+            "Date and Time": {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "17:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+            },
+            "Topics / Description": "About 70% of all startups fail within the first 3 years. There is 1 skill that can improve your odds of success and help your startup avoid becoming a statistic. The skill...",
+            "Workshop Name": "De-Risk Failure with One Skill"
+        }
+    }
+]

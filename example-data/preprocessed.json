@@ -1,0 +1,2572 @@
+[
+  {
+    "id": "3eb65393-9a8d-4e7c-b608-6cd11f7d74fb",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "10-11"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Dreyfoos) | Turtle Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Bryan Brown (Looking Glass Factory)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Looking Glass Workshop"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "8dfdbf8e-6c7c-47fb-8c93-5ed7694e5048",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "11-12"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Dreyfoos) | Turtle Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Sponsor-Led"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Cognitive3D"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "266372c1-953c-4293-8adb-0b2a3312318b",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "2:30-3:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Dreyfoos) | Turtle Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Sponsor-Led"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "(they technically don’t get a workshop…)"
+        ]
+      ],
+      "title": [
+        [
+          "inCitu.us"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "8fdfc383-c446-4a4b-8e1c-b525bc3cd8d9",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "1:30-2:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Dreyfoos) | Turtle Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Sponsor-Led"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Leia"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c2c48c6b-4d10-4806-81d4-8e79efba4a86",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "12-1:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Dreyfoos) | Turtle Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Design,Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Greg Feingold (TikTok),Mingus New (TikTok)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:45",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "How to tell a story using Effect house / Intro to Effect House software"
+        ]
+      ],
+      "title": [
+        [
+          "Shape Culture with AR using TikTok Effect House"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ad0c458e-7f51-47e1-9eb6-7c7476533ec7",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "3:30-4:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Dreyfoos) | Turtle Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Steve Lukas (Snapdragon Spaces),Rogue Fong (Snapdragon Spaces)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Learn about the features and capabilities of the Snapdragon Spaces XR Developer Platform in this informal workshop overview. This Augmented Reality-focused session is highly recommended for participants interested in the dedicated Snapdragon Spaces Hack, and is intended for those with previous experience building mobile and / or XR apps using Unity."
+        ]
+      ],
+      "title": [
+        [
+          "Developing Lightweight AR Glasses experiences with Snapdragon Spaces",
+          [
+            [
+              "b"
+            ]
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aab28c38-8fa7-46c1-bd3e-57fbb8b6d8d0",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "3:30-4:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Dreyfoos) | Turtle Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Advanced,Developer"
+        ]
+      ],
+      "mhmF": [
+        [
+          "XR Terra"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "17:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Learn how to create multiplayer connected applications using Normcore "
+        ]
+      ],
+      "title": [
+        [
+          "Introduction to Multiplayer with Normcore"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aaa49b48-8efe-433b-b1e8-386b673722c3",
+    "properties": null
+  },
+  {
+    "id": "18aa413e-607f-401d-beb4-78afe4604ece",
+    "properties": {
+      "title": [
+        [
+          "Event Guide 2023"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "7137bf24-15be-4dc8-8db8-300f7a2006c4",
+    "properties": null
+  },
+  {
+    "id": "1babcec0-d474-4092-8113-dcc8e80f5191",
+    "properties": null
+  },
+  {
+    "id": "5ae8a39f-8a97-4735-b12b-47f90eead424",
+    "properties": null
+  },
+  {
+    "id": "2005c744-0c37-4891-9727-5ad7911a71bb",
+    "properties": null
+  },
+  {
+    "id": "a2d7fb3b-7ae7-44b4-a564-7045d9818618",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "12-1:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Skyline) | Water Tribe"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Dan Furman (ArcTop)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Brain-computer interfacing with Arctop's SDK: basic to advanced functions to wow users"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "32be110b-3b1e-46dc-8e83-5b84e35d24eb",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "11-12"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Skyline) | Water Tribe"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Advanced,Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Sponsor-Led"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "This should be  in the media  lab tangential to the sponsor expo"
+        ]
+      ],
+      "title": [
+        [
+          "HaptX"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "9d83ca28-ebc3-4e71-8aec-67c1c9ef2cf0",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "10-11"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Skyline) | Water Tribe"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Design,Developer,Advanced"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Beginner,Fun"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Sponsor-Led"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "For Quest only"
+        ]
+      ],
+      "{=Su": [
+        [
+          "inga@shapesxr.com",
+          [
+            [
+              "a",
+              "inga@shapesxr.com"
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Prototyping in ShapesXR"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "caea9c54-f3d8-4941-876d-feeca0ed86d0",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "1:30-2:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Skyline) | Water Tribe"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Daniel Sisson (CyberHub)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Open Source Multiplayer Project"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c76e4513-06cb-4ef0-9935-bc40c3601922",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "3:30-4:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Skyline) | Water Tribe"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Rex Hansen (Esri),Matt Nelson (Esri)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Attend this workshop to learn how to use Esri’s ArcGIS Maps SDKs for Unity and Unreal Engine to build immersive XR experiences with real-world geospatial data and analytics. "
+        ]
+      ],
+      "{=Su": [
+        [
+          "rhansen@esri.com",
+          [
+            [
+              "a",
+              "rhansen@esri.com"
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Esri: Get Started with ArcGIS Maps SDKs for Game Engines"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "4249da4e-6fbd-4c42-ac49-c30f0539d4b1",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "2:30-3:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Skyline) | Water Tribe"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Advanced,Developer"
+        ]
+      ],
+      "mhmF": [
+        [
+          "XR Terra"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Learn more about the Unity Physics System and connected rigidbodies with Unity"
+        ]
+      ],
+      "title": [
+        [
+          "Introduction to Joints"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "3db9b604-6407-4288-a166-4faa1a2f5b67",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "4:30 - 5:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "ML 6F (Skyline) | Water Tribe"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Advanced,Design,Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Beginner"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Dulce Baerga"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "17:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "{=Su": [
+        [
+          "dulce303@gmail.com",
+          [
+            [
+              "a",
+              "dulce303@gmail.com"
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Developing an Avatar"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "111bedfd-ca36-443e-8cf4-e9c63a13f14a",
+    "properties": {
+      ":C]H": [
+        [
+          "Workshop Presenter"
+        ]
+      ],
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "10-11"
+        ]
+      ],
+      "d?jH": [
+        [
+          "Old ML (Bartos) | Ember Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Beginner"
+        ]
+      ],
+      "mhmF": [
+        [
+          "XR Terra"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "tEb_": [
+        [
+          "Getting started with Unity Engine"
+        ]
+      ],
+      "zU_C": [
+        [
+          "Basics of Unity\nThe editor, panels\nComponents\nInto to scripting"
+        ]
+      ],
+      "title": [
+        [
+          "Getting started with Unity"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "6f443118-736c-434e-8213-f763a6cc035d",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "10-11"
+        ]
+      ],
+      "d?jH": [
+        [
+          "Old ML (Bartos) | Ember Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Design,Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Beginner"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Sam De Lara"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Learn how to use Blender in your projects! This beginner-friendly workshop will cover how to use this open source software to create, edit, and export 3D models. I'll be going over a variety of topics such as file formats, scripting, how to navigate Blender, and even how you can use your models in other applications like TikTok Effect House."
+        ]
+      ],
+      "title": [
+        [
+          "Blender for a Hackathon"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "78600774-868f-46ff-bbe4-5a8865452c96",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "12-1:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "Old ML (Bartos) | Ember Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "mhmF": [
+        [
+          "XR Terra"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "XR Interaction Toolkit"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "d9cc0e35-4826-4cb7-9f9b-d9a0d87a7783",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "End of day"
+        ]
+      ],
+      "d?jH": [
+        [
+          "Old ML (Bartos) | Ember Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          ""
+        ]
+      ],
+      "j^TL": [
+        [
+          "Beginner,Fun"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Dario Laverde (HTC Vive)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Developing for the VIVE XR Elite (and Focus 3 including eye tracking)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "daed97ce-1999-4110-b3aa-33b80ffb14e4",
+    "properties": {
+      ":C]H": [
+        [
+          "Workshop Presenter - Familiar with git workflow"
+        ]
+      ],
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "11-12"
+        ]
+      ],
+      "d?jH": [
+        [
+          "Old ML (Bartos) | Ember Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Beginner"
+        ]
+      ],
+      "mhmF": [
+        [
+          "XR Terra"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "tEb_": [
+        [
+          "How to NOT have git issues?"
+        ]
+      ],
+      "title": [
+        [
+          "Intro to Version Control with Github"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "111e953c-9599-4bb6-83c7-09bdc8efcb4c",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "12-1:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "Old ML (Bartos) | Ember Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer,Advanced"
+        ]
+      ],
+      "j^TL": [
+        [
+          ""
+        ]
+      ],
+      "mhmF": [
+        [
+          "XR Bootcamp"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "\"Explore examples of Passthrough interactions that can enrich the experience of your Mixed Reality applications and games”\n"
+        ]
+      ],
+      "title": [
+        [
+          "Blending Mixed Reality With Passthrough"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "84320f39-88c8-4d3d-b8a4-254e05f6e5db",
+    "properties": {
+      "SojA": [
+        [
+          "In progress"
+        ]
+      ],
+      "]cyT": [
+        [
+          "10-11"
+        ]
+      ],
+      "d?jH": [
+        [
+          "Old ML (Bartos) | Ember Island"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Design"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Worldbuilding Team"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "18:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Future Constructors: Building a better world "
+        ]
+      ]
+    }
+  },
+  {
+    "id": "9612f180-d887-4254-8a72-16b3311d4fb7",
+    "properties": {
+      "SojA": [
+        [
+          "In progress"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 3F | Southern Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Sponsor-Led"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Ultraleap Workshop"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "6e75e523-3d66-4df7-a8cb-ea1ada73d7d2",
+    "properties": {
+      "SojA": [
+        [
+          "In progress"
+        ]
+      ],
+      "]cyT": [
+        [
+          "2:30-3:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 3F | Southern Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Advanced"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Sponsor-Led"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Extended reality (XR) is an emerging form that offers new creative opportunities in immersive narrative meaning-making. The critical shift toward participant immersion within digital information systems and simulation makes the scale of immersive media’s potential impact on human life, culture, and well-being, unlike any previous medium. As a new medium, XR presents unique challenges to media arts creators. In this workshop, participants will explore an immersive experience (XRX) design methodology for designing, planning, and executing immersive media works. The presenters define immersive experience design as a rhetorical, multimodal composition of objective stimuli to create subjective emotional states in the participants. The method applies design-thinking-based knowledge systems to enhance narrative transportation and presence. The methodology has been implemented in project-oriented courses over three years. Templates and handouts will be provided to facilitate implementation of the methodology by teams participating in MIT Reality Hack 2023. David Tamés, Associate Teaching Professor, Art + Design, Northeastern UniversityPeter Zakrzewski, Assistant Teaching Professor, Communication and Visual Arts, Thompson Rivers University"
+        ]
+      ],
+      "title": [
+        [
+          "Solana"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "60550c1a-cfaa-47c8-a66d-4c80e4e7a45a",
+    "properties": {
+      ":C]H": [
+        [
+          "Workshop Presenter"
+        ]
+      ],
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "12-1:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 3F | Southern Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Has PreReqs"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Esteban Maldonado (Unity)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+              }
+            ]
+          ]
+        ]
+      ],
+      "tEb_": [
+        [
+          "Getting started with Unity Engine"
+        ]
+      ],
+      "zU_C": [
+        [
+          "Are you thinking about creating an online multiplayer experience with Unity? In this workshop, you will learn the basic concepts for making a multiplayer game using Unity and the Netcode for Game Objects library. This session will show you how to interact with Unity's networking package to build a simple co-op multiplayer 2D game.\n"
+        ]
+      ],
+      "title": [
+        [
+          "Building Multiplayer games with Unity "
+        ]
+      ]
+    }
+  },
+  {
+    "id": "6ba2b5df-8945-4fd8-8814-422203a83c73",
+    "properties": {
+      "d?jH": [
+        [
+          "iHQ 3F | Southern Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Sponsor-Led"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Lynx"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "7e5eae82-0962-47de-a572-fb66b2e2f582",
+    "properties": {
+      "]cyT": [
+        [
+          "2:30-3:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 3F | Southern Air Temple"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Org Member"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Volunteer Orientation"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "d75f5c3e-1907-4f89-ad1c-c3550830bc38",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "3:30-4:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 3F | Southern Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer,Advanced"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Beginner"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Bryan Brown"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Unreal Engine"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "32b16382-b706-4450-a2ef-b3b163e3f21e",
+    "properties": {
+      "SojA": [
+        [
+          "In progress"
+        ]
+      ],
+      "]cyT": [
+        [
+          "4:30 - 5:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 3F | Southern Air Temple"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Brian Hui,Austin Edelman,ShapesXR Team"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "17:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Mentor Orientation"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "2d16314c-e599-4249-a184-30ce7fd6bf70",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "11-12"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 4F | Western Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "AI"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Jeff Roesner (Pico)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Pico Neo 3 Workshop"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "b458997c-93c0-498b-beb6-50b2ab8f68ee",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "4:30 - 5:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 4F | Western Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer,Business"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Beginner"
+        ]
+      ],
+      "mhmF": [
+        [
+          "XR Terra"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Rapid Prototyping and Team Management"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "f578ca93-8751-4793-83d1-8656ffaef638",
+    "properties": {
+      ":C]H": [
+        [
+          "Workshop Presenter - Familiar with AI tools"
+        ]
+      ],
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "1:30-2:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 4F | Western Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer,Design"
+        ]
+      ],
+      "j^TL": [
+        [
+          ""
+        ]
+      ],
+      "mhmF": [
+        [
+          "Pratik Suketu"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Setting up stable diffusion\nConcepting Ideas\nPrompt Engineering\nIterating on Designs"
+        ]
+      ],
+      "title": [
+        [
+          "Generative Art with Super Stable Diffusion"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c1584a93-c8f2-49f0-98e8-d634c1eef3ee",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "1:30-2:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 4F | Western Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Design,Audio"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Beginner,Fun"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Shirly Spikes"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Conceptual overview of spatial audio"
+        ]
+      ],
+      "title": [
+        [
+          "Spatial Audio Overview"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "d86f935b-c696-474a-9b15-f869aa85a00e",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "1:30-2:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 4F | Western Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Business"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Beginner"
+        ]
+      ],
+      "mhmF": [
+        [
+          "XR Terra"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "How to build quickly and collaborate while you do it"
+        ]
+      ],
+      "title": [
+        [
+          "Rapid Prototyping and Team Management"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "a5b4832c-d3dd-46f9-be9d-244a3179dbbf",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "3:30-4:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 4F | Western Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Design,Developer,Audio,Advanced"
+        ]
+      ],
+      "j^TL": [
+        [
+          ""
+        ]
+      ],
+      "mhmF": [
+        [
+          "Shirly Spikes"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Digital Audio Workstations, mixing, adding audio interactivity"
+        ]
+      ],
+      "title": [
+        [
+          "Spatial Audio Advanced Techniques ",
+          [
+            [
+              "b"
+            ]
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "404880d2-8cc2-4694-a7bf-ca56aedd9c5f",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "4:30 - 5:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 4F | Western Air Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer,Audio"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Dan Zeitman (Dolby.io)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "17:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "{=Su": [
+        [
+          "dan.zeitman@dolby.com",
+          [
+            [
+              "a",
+              "dan.zeitman@dolby.com"
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Real-time Spatial Audio and Streaming | "
+        ],
+        [
+          "Dolby.io",
+          [
+            [
+              "a",
+              "http://dolby.io/"
+            ]
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "21ddcfac-e0ab-47cc-b6ad-0f34ef6edb06",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "2:30-3:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 7F | Northern Air  Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Developer"
+        ]
+      ],
+      "j^TL": [
+        [
+          "Sponsor"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Jonathan Hale (Wonderland)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "11:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "10:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Join the Wonderland CEO/CTO at the MIT Reality Hack for our workshop on building optimized WebXR apps in no time. Learn how to create immersive web-based VR apps using the Wonderland Engine, a specialized 3D development platform for XR on the web. We will give an introduction to the Wonderland Editor and Wonderland Engine's JavaScript API. Don't miss this opportunity to get a head-start into the future of web-based XR development."
+        ]
+      ],
+      "title": [
+        [
+          "Build Performant WebXR Apps in Record-Time with Wonderland Engine"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "feb7a93d-d7b2-457e-96e7-00d3adb0642f",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "11-12"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 7F | Northern Air  Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Hardware Hack"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Bryan Brown"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "12:00",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "11:00"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Scoping Your Project: How to Make a Successful Hackathon Project"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "15ac6e9e-84fc-4510-9c3e-752c8fb82c5b",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "12-1:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 7F | Northern Air  Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Hardware Hack"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Lucas De Bonet,Bryan Brown"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "13:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "12:15"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "DIY Open Source Hardware "
+        ]
+      ]
+    }
+  },
+  {
+    "id": "74b289b2-4e0a-486c-9a1a-8e13882dbef7",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "1:30-2:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 7F | Northern Air  Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Hardware Hack"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Lucas De Bonet,Austin Edelman"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "14:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "13:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "Walking through the hardware hack"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c3c418eb-4190-456d-97d9-b091c43e0195",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "2:30-3:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 7F | Northern Air  Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Business"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Parna Sarkar-Basu (Prepare4VC.com)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "15:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "14:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "Not positioning your brand right can negatively impact your product launch or fundraising efforts. Learn the branding mistakes most startups make and get tips on building the founder’s brand – an important element of launching a successful business."
+        ]
+      ],
+      "title": [
+        [
+          "Building your personal brand as a Founder"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ad5bc847-d3fb-492e-9ee2-9cee4908a117",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "3:30-4:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 7F | Northern Air  Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Business"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Jason Kraus (Prepare4VC.com)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "16:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "15:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "title": [
+        [
+          "How not to pitch your startup venture"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "088d05aa-8e1d-4b21-8882-8371b96eb683",
+    "properties": {
+      "SojA": [
+        [
+          "Confirmed"
+        ]
+      ],
+      "]cyT": [
+        [
+          "4:30 - 5:30"
+        ]
+      ],
+      "d?jH": [
+        [
+          "iHQ 7F | Northern Air  Temple"
+        ]
+      ],
+      "fnDK": [
+        [
+          "Business"
+        ]
+      ],
+      "mhmF": [
+        [
+          "Chris Dube (Prepare4VC.com)"
+        ]
+      ],
+      "r=~^": [
+        [
+          "‣",
+          [
+            [
+              "d",
+              {
+                "type": "datetimerange",
+                "end_date": "2023-01-12",
+                "end_time": "17:30",
+                "time_zone": "America/New_York",
+                "start_date": "2023-01-12",
+                "start_time": "16:30"
+              }
+            ]
+          ]
+        ]
+      ],
+      "zU_C": [
+        [
+          "About 70% of all startups fail within the first 3 years. There is 1 skill that can improve your odds of success and help your startup avoid becoming a statistic. The skill..."
+        ],
+        [
+          "Communication",
+          [
+            [
+              "b"
+            ]
+          ]
+        ],
+        [
+          ". Learn the 5 most prominent reasons startups have failed over the last 10 years, the 4 types of communication & how to leverage knowledge about your audience to communicate with mastery."
+        ]
+      ],
+      "title": [
+        [
+          "De-Risk Failure with One Skill"
+        ]
+      ]
+    }
+  }
+]
